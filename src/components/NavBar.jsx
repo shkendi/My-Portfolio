@@ -11,7 +11,7 @@ const NavBar = () => {
 		},
 		{
 			id: 2,
-			link: 'about',
+			link: 'interests',
 		},
 		{
 			id: 3,
