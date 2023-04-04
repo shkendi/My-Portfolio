@@ -20,7 +20,7 @@ const About = () => {
 					<span><h4 className='text-2xl'>Gardening</h4></span>
 
 					<p className=''>
-						I find gardening to be a therapeutic activity that allows me to connect with nature and create something beautiful. I enjoy growing vegetables and herbs, and I live the satisfaction of seeing them flourish
+						I find gardening to be a therapeutic activity that allows me to connect with nature and create something beautiful. I enjoy growing vegetables and herbs, and I live the satisfaction of seeing them flourish.
 					</p>
 					<br />
 					<h4 className='text-2xl'>Sports</h4>
