@@ -42,7 +42,7 @@ const Projects = () => {
 			title: "Project One",
 			subtitle: "Space Invaders",
 			description: "Space Invaders is my first-ever front-end development project, produced as part of General Assembly's Immersive Software Engineering Bootcamp. My task was to create a grid-based game rendered in the browser that utilises JavaScript, HTML and CSS.",
-			href: "shkendi.github.io/Project-1/ ",
+			href: "https://shkendi.github.io/Project-1/",
 			ReadMe: "https://github.com/shkendi/Project-1/blob/main/README.md"
 		},
 	]
