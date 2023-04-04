@@ -9,7 +9,7 @@ const About = () => {
     from-black to-gray-800"
 		>
 			<div className="max-w-screen-lg mx-auto flex flex-col
-		items-center justify-center h-full px-4 md:flex-row bg-gradient-to-b from-gray-400 to-gray-600">
+		items-center justify-center h-full px-4 md:flex-row bg-gradient-to-b from-green-300 to-white">
 				<div>
 					<img src={photo} alt="my profile"
 						className='rounded-2xl mx-auto w-2/3 md:w-2/3'
@@ -17,22 +17,22 @@ const About = () => {
 				</div>
 
 				<div class="flex flex-col justify-center h-full">
-					<h2 className='text-3xl mt-8 md:text-5xl font-bold text-white'>
+					<h2 className='text-3xl mt-8 md:text-5xl font-bold text-gray-700'>
 						I am a Full Stack Developer
 					</h2>
-					<p className='text-white py-4 max-w-md'>
+					<p className='text-gray-800 py-4 max-w-md'>
 						I am a dedicated and enthusiastic Software Engineer with a passion
 						for problem-solving and creating innovative solutions.</p>
 					<br />
 
-					<p className='text-white'>
+					<p className='text-gray-800'>
 						My strong foundation in software development principles, coupled with
 						my proficiency in programming languages such as JavaScript and Python, enables me
 						to easily tackle complex challenges. I possess great communication skills,
 						empowering me to collaborate effectively with cross-functional teams and stakeholders.</p>
 					<br>
 					</br>
-					<p className='text-white'>
+					<p className='text-gray-800'>
 						I am committed to delivering high-quality work and continuously striving to improve
 						my skills and knowledge to create software that meets the needs of end users.
 					</p>

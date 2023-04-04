@@ -1,7 +1,7 @@
 import React from 'react'
 import NavBar from "./components/NavBar";
 import Home from "./components/Home";
-import Interests from './components/Interests';
+import About from './components/About';
 import Projects from './components/Projects'
 import Skills from './components/Skills';
 import Contact from './components/Contact'
@@ -14,7 +14,7 @@ function App() {
 			<Home />
 			<Projects />
 			<Skills />
-			<Interests />
+			<About />
 			<Contact />
 			<SocialLinks />
 		</div>

@@ -93,14 +93,14 @@ const Skills = () => {
 	]
 	return (
 		<div name='skills'
-			className='bg-gradient-to-b from-green-300 to-gray-500 w-full h-screen'>
+			className='bg-gradient-to-b from-green-200 to-white w-full h-screen'>
 			<div className='max-w-screen-lg mx-auto pb-10 flex
 			flex-col justify-center w-full h-full text-white'>
 				<div>
-					<p className='text-3xl flex justify-center text-white font-bold border-b-4 border-white p-0'>
+					<p className='text-3xl flex justify-center text-gray-700 font-bold border-b-4 border-gray-700 p-0'>
 						Skills
 					</p>
-					<p className='text-2xl flex justify-center py-6 text-black '>These are the technologies I work with</p>
+					{/* <p className='text-2xl flex justify-center py-6 text-black '>These are the technologies I work with</p> */}
 				</div>
 
 				<div className='w-full grid grid-cols-3 sm:grid-cols-4 gap-8 text-center items-center justify-between
@@ -108,9 +108,9 @@ const Skills = () => {
 					{techs.map(({ id, src, title, style }) => (
 						<div
 							key={id}
-							className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style}`}>
+							className={`hover:scale-105 duration-500 py-2 rounded-lg`}>
 							<img src={src} alt='' className='w-20 mx-auto' />
-							<p className='mt-4'>{title}</p>
+							<p className='mt-4 text-black'>{title}</p>
 						</div>
 
 					))

@@ -4,15 +4,15 @@ const About = () => {
 	return (
 		<div
 			name='about'
-			className='w-full h-screen bg-gradient-to-b from-gray-600 to-green-500 text-gray'
+			className='w-full h-screen bg-gradient-to-b from-green-200 to-white text-gray-800'
 		>
 			<div className='max-w-screen-lg p-4 mx-auto flex flex-col w-full h-full'>
 				<div className='pb-6'>
-					<p className='text-4xl pt-6 flex justify-center font-bold text-white border-b-4 border-white'>
-						Interests
+					<p className='text-4xl pt-6 flex justify-center font-bold text-gray-800 border-b-4 border-gray-700'>
+						About Me
 					</p>
 				</div>
-				<section className='text-white'>
+				<section className='text-gray-800'>
 					<h4 className='text-2xl' >Travelling</h4>
 					<p>I love to explore new cultures and immerse myself in different ways of life. I've had the opportunuty to visit many countries, and I enjoy experiencing local cuisine, architecture, and customs. I also like being close to nature. My last journey was near Toulouse, visiting organic plantations and farms and talking to people to whom farms are treated 100% with organic fertilisers and acknowledging their fantastic job towards nature and the planet.</p>
 					<br></br>
