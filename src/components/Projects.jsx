@@ -57,7 +57,7 @@ const Projects = () => {
 					</p>
 					{/* <p className='py-0 text-bold flex justify-center text-2xl'>Check out some of my work here</p> */}
 				</div>
-				<div className='grid sm:grid-cols-1 md:grid-cols-4 justify-center p-0 w-full h-full gap-10px'>
+				<div className='grid sm:grid-cols-1 md:grid-cols-4 justify-center pb-8 w-full h-full gap-10px'>
 					{projects.map(({ id, src, href, ReadMe, title, subtitle, description }) => (
 						<div key={id} className='border-4 rounded-lg'>
 							<img
