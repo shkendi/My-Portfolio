@@ -50,7 +50,7 @@ const Projects = () => {
 		<div
 			name='projects'
 			className='bg-gray-200 w-full text-gray-700 md:h-screen'>
-			<div className='max-w-screen-lg pt-6 md:pt-6 mx-auto flex flex-col w-full h-full'>
+			<div className='max-w-screen-lg pt-6 md:pt-0 mx-auto flex flex-col w-full h-full'>
 				<div className='pb-40'>
 					<p className='py-0 text-3xl text-gray-700 font-bold flex justify-center border-b-4 border-gray-700'>
 						Projects
