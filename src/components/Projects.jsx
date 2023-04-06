@@ -16,7 +16,7 @@ const Projects = () => {
 			subtitle: "Giftshop",
 			description: "The Giftshop app is an online shop for all gift lovers. It is for all of them who believe that buying a present occasionally or regularly can be a life-changer for some of us and a thoughtful gesture towards people we love and care about.",
 			href: "https://giftshopapp.netlify.app",
-			ReadMe: "https://github.com/shkendi/Pjoject-4/blob/main/README.md",
+			ReadMe: "https://github.com/shkendi/Pjoject-4/commit/3087aa7c864b382e27472912c767be55468417ae",
 		},
 		{
 			id: 2,
@@ -25,7 +25,7 @@ const Projects = () => {
 			subtitle: "Dinspiration",
 			description: "Project 3 was a full-stack MERN app that we built for all food lovers that in busy times would like to have something quick and healthy on their table when coming back home.",
 			href: " https://dinspiration.netlify.app",
-			ReadMe: "https://github.com/shkendi/Dinspiration/blob/main/README.md"
+			ReadMe: "https://github.com/shkendi/Dinspiration/commit/45b825b48a82ef3231a66952f9c35489a25c1fd2"
 		},
 		{
 			id: 3,
@@ -34,7 +34,7 @@ const Projects = () => {
 			subtitle: "Cripto App",
 			description: "Project-2 consists in creating a single-page app using React and a public API. I often wondered why people are attracted to virtual coins, wanting to make money in an easy way, and came up with the idea of building my own crypto app.",
 			href: "https://criptoapp-project-2.netlify.app/coins",
-			ReadMe: "https://github.com/shkendi/Project-2#readme"
+			ReadMe: "https://github.com/shkendi/Project-2/commit/c042548c0dc3760b4a58aa5bab638885c56cb7c5"
 		},
 		{
 			id: 4,
@@ -43,7 +43,7 @@ const Projects = () => {
 			subtitle: "Space Invaders",
 			description: "Space Invaders is my first-ever front-end development project, produced as part of General Assembly's Immersive Software Engineering Bootcamp. My task was to create a grid-based game rendered in the browser that utilises JavaScript, HTML and CSS.",
 			href: "https://shkendi.github.io/Project-1/",
-			ReadMe: "https://github.com/shkendi/Project-1/blob/main/README.md"
+			ReadMe: "https://github.com/shkendi/Project-1/commit/e47e38b4241c76a204063cdc369ab396b2d4bcbe"
 		},
 	]
 	return (
